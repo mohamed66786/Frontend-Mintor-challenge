@@ -1,2 +1,10 @@
-# Frontend-Mintor-challenge
-This Is Responsive React Challenge Creating Ad. Page with Style-Component
+# Huddle Landing Page (React & Styled Components)
+
+Project from my styled components crash course
+
+## Usage
+
+```
+npm install
+npm start
+```
